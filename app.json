@@ -1,0 +1,8 @@
+{
+	"name": "Shuddhi",
+	"description": "API for Shuddhi NGO android app.",
+	"repository": "",
+	"logo":"",
+	"keywords":["Shuddhi", "NGO", "fundraising", "contribute", "donate", "Shuddhi.ngo"],
+	"image":"heroku/nodejs"
+}
